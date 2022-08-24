@@ -301,12 +301,12 @@ The following table contains the proportion of the final grade that each assessm
 
 <table>
   <tr>
-   <td><strong>Unit</strong>
-   </td>
-   <td><strong>Assessment Mechanisms</strong>
-   </td>
-   <td><strong>Fraction of Grade</strong>
-   </td>
+   <th><strong>Unit</strong>
+   </th>
+   <th><strong>Assessment Mechanisms</strong>
+   </th>
+   <th><strong>Fraction of Grade</strong>
+   </th>
   </tr>
   <tr>
    <td rowspan="3" >1
@@ -393,12 +393,12 @@ An example of an appropriate notification email is provided below:
 
 <table>
   <tr>
-   <td><strong>Due Date</strong>
-   </td>
-   <td><strong>Individual Assignments</strong>
-   </td>
-   <td><strong>Team Assignments</strong>
-   </td>
+   <th><strong>Due Date</strong>
+   </th>
+   <th><strong>Individual Assignments</strong>
+   </th>
+   <th><strong>Team Assignments</strong>
+   </th>
   </tr>
   <tr>
    <td>Aug 26
