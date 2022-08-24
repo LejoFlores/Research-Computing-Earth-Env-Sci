@@ -403,7 +403,7 @@ An example of an appropriate notification email is provided below:
 > Dear Lejo,
 > 
 > I will be at the Mountain Climate conference in Gothic, CO from September 9-13 without internet access when Jupyter Notebook number 2 is due on September 12th. If it is okay, I will submit the notebook after I arrive in Boise on September 16th by the end of the business day (5pm).
-
+>
 > Sincerely,
 >
 > Your name
