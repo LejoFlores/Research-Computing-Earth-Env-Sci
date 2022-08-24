@@ -135,33 +135,33 @@ I will achieve these course learning outcomes by:
   <tr>
    <td>
    </td>
-   <td colspan="8" >
+   <th colspan="8" >
 Learning Objectives
-   </td>
+   </th>
   </tr>
   <tr>
-   <td>Activity
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>3
-   </td>
-   <td>4
-   </td>
-   <td>5
-   </td>
-   <td>6
-   </td>
-   <td>7
-   </td>
-   <td>8
-   </td>
+   <th>Activity
+   </th>
+   <th>1
+   </th>
+   <th>2
+   </th>
+   <th>3
+   </th>
+   <th>4
+   </th>
+   <th>5
+   </th>
+   <th>6
+   </th>
+   <th>7
+   </th>
+   <th>8
+   </th>
   </tr>
   <tr>
-   <td>A
-   </td>
+   <th>A
+   </th>
    <td>X
    </td>
    <td>
@@ -169,86 +169,6 @@ Learning Objectives
    <td>X
    </td>
    <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td>B
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>C
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>D
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>E
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
    </td>
    <td>
    </td>
@@ -260,8 +180,88 @@ Learning Objectives
    </td>
   </tr>
   <tr>
-   <td>F
+   <th>B
+   </th>
+   <td>X
    </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <th>C
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <th>D
+   </th>
+   <td>
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <th>E
+   </th>
+   <td>
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+  </tr>
+  <tr>
+   <th>F
+   </th>
    <td>
    </td>
    <td>
