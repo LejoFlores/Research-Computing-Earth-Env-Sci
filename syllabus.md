@@ -4,7 +4,7 @@
 # GEOS 505: Research Computing in the Earth and Environmental Sciences
 
 
-### Instructor:
+### I. Instructor:
 
 Dr. Alejandro (Lejo) Flores (he/him)
 
@@ -15,7 +15,7 @@ Office Hours: TBD
 Email: lejoflores@boisestate.edu
 
 
-### Teaching Assistant:
+### II. Teaching Assistant:
 
 Stanley Akor 
 
@@ -24,13 +24,12 @@ Office Hours: TBD
 Email: stanleyakor@u.boisestate.edu
 
 
-### Course Description:
+### III. Course Description:
 
 Prepares students for data- and computing-enabled research in the Earth and environmental sciences by equipping them with knowledge and skills to use computing platforms, programming languages, and practices common in contemporary research. Topics include the linux computing environment, version control using Git, and programming with Python and R. Exercises analyze data related to climate change, geomorphology, landscape ecology, remote sensing, and hydrology.
 
 
-### Required Materials: 
-
+### IV. Required Materials: 
 
 
 * **<span style="text-decoration:underline;">Access to a computer that has a linux shell.</span>** Being a scientific computing class, access to computing resources is critical. Ideally, you have access to a laptop on which you can install the required computing tools (Python, JupyterLab, and git, ideally via a package manager like conda). I acknowledge, however, that as Graduate Students your ability to procure a laptop that you can bring to class may be limited. If you need help finding access to a laptop for class, please contact me as there are a number of ways I can help. Chromebooks are potentially an option, but you will need to use a cloud computing environment like Google Colab. Beginning with Windows 10, the Windows operating system can install a Linux shell via the Windows Subsystem for Linux. 
@@ -38,11 +37,9 @@ Prepares students for data- and computing-enabled research in the Earth and envi
 * **<span style="text-decoration:underline;">A text editor with syntax highlighting</span>** will be required when we begin exploring coding outside a Jupyter Notebook environment. There are a variety of free and open source options, as well as paid options that provide additional functionality and support. I advise against using an Integrated Development Environment (IDE) like Eclipse, Spyder, PyCharm, etc. Although these can help ease onboarding if you are used to Matlab or RStudio, until you have a good working knowledge of how IDEs link your operating system and python installation they can do more harm than good. 
 
 
-### Recommended Computing Setup: 
+### V. Recommended Computing Setup: 
 
 If you have experience in installing scientific computing software, or feel confident enough to try, the following software is the minimum you will need at the outset of the class. New requirements may arise throughout the semester, but you will have built some capabilities to install them. This class is committed to using only open source software and open science principles. If you are new to scientific computing, do not worry about installing these now – I will schedule a few setup sessions outside of the normal class time to help you get set up. 
-
-
 
 * `Python 3`. I highly recommend you install Python via Miniconda or Anaconda. I also highly recommend that you create a new conda environment specifically for the class.
     * Miniconda installers for Windows, Mac, and Linux devices can be found here: [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
@@ -56,10 +53,10 @@ If you have experience in installing scientific computing software, or feel conf
 * `xArray`. For analysis of multidimensional data, particularly model output and remote sensing data.
 
 
-### Course Expectations
+### VI. Course Expectations
 
 
-#### Course Structure
+#### VI.A. Course Structure
 
 This class is divided into units, the first unit being approximately 5 weeks in duration and the second unit being approximately 10 weeks in duration. The units have different overarching goals and classes and assessments will be structured very differently. 
 
@@ -67,15 +64,11 @@ This class is divided into units, the first unit being approximately 5 weeks in 
 
 **<span style="text-decoration:underline;">Unit 2: Class Climate Dashboard Project.</span>** The goal of this unit is to develop a minimum viable product (MVP) for a climate dashboard for Idaho. The dashboard will automatically generate a small suite of (perhaps interactive) plots that support identified stakeholder needs by: (1) automatically downloading NOAA Climate Forecast System data on a regular basis, (2) extracting a region corresponding to Idaho and the key variables required to support those visualizations, and (3) performs required data reduction and analysis to generate dashboard visualizations. To develop this dashboard we will learn and adopt practices of agile software development applied to a scientific computing application. Consistent with this approach, as a class we will:
 
-
-
 * Conceptually design the dashboard’s workflow pipeline, 
 * Identify teams to support developing the sub-elements of the dashboard, and
 * Communicate across teams to manage integration. 
 
 This 10 week unit will be subdivided into 5 “sprints” that are 2 weeks in duration each. A sprint is a period of time in the software development life cycle during which the development team identifies well-defined outcomes for the sprint, carries out activities to achieve these goals, and documents progress and problems encountered during the sprint. During each of these sprints, your team will complete and submit the following:
-
-
 
 * **<span style="text-decoration:underline;">Sprint Planning Document:</span>** Records goals, assignments, and activities for the sprint, and
 * **<span style="text-decoration:underline;">Sprint Closure Document:</span>** Records the activities carried out, spillover (things that were planned but not completed during the sprint), and identifies issues and risks to the broader project
@@ -83,9 +76,7 @@ This 10 week unit will be subdivided into 5 “sprints” that are 2 weeks in du
 As an individual, you will also complete a self-assessment at the end of each sprint that documents what activities you carried out, how they supported your goals for the semester, and provides evidence of your progress. These self-assessments are critical and will form the basis of your evaluation for the course. 
 
 
-#### Attendance:
-
-
+#### VI.B. Attendance:
 
 * Review Boise State University's attendance policy at https://www.boisestate.edu/registrar/home/registration/attendance-policy/
 * Due to the nature of the class, merely completing reading materials and reviewing this GitHub repository is a poor substitute for engaged and active participation.
@@ -93,9 +84,7 @@ As an individual, you will also complete a self-assessment at the end of each sp
 * Class starts on time. I make announcements, answer questions, and give reminders immediately at the beginning of class.
 
 
-#### Outside of Class:
-
-
+#### VI.C. Outside of Class:
 
 * You are expected to read all emails and announcements.
 * The class reading/lecture/assignment/project schedule will be updated on this github repository. It is your responsibility to make sure you are staying up to date.
@@ -103,28 +92,26 @@ As an individual, you will also complete a self-assessment at the end of each sp
 * If you need help, get it now! I am always willing to meet with you and go over questions or concerns. Do not wait until the end of the semester.
 
 
-#### Academic Dishonesty:
+#### VI.D. Academic Dishonesty:
 
 Cheating or plagiarism in any form is unacceptable. All work submitted by a student must represent their own ideas, concepts, and current understanding. Academic dishonesty includes submitting substantial portions of the same academic coursework to more than one course for credit without prior permission of the instructor(s). Please be aware of your rights and responsibilities as a student by reviewing the [Boise State Student Code of Conduct](https://www.boisestate.edu/policy/student-affairs/code-of-conduct/).
 
 
-#### Educational Access for All Students:
+#### VI.E. Educational Access for All Students:
 
 Students with additional educational and access needs are encouraged to contact the proper resource as early as possible ([Boise State Educational Access Center](https://www.boisestate.edu/eac/)). The EAC assists Boise State staff and faculty in meeting accommodations mandated by Federal and State law and University policy. They will work with you to identify and document physical and learning needs and identify appropriate accommodations for a student in their courses.
 
 
-#### COVID-19 Guidelines:
+#### VI.F. COVID-19 Guidelines:
 
 As of August 2022, the COVID-19 pandemic situation remains fluid in the United States and Idaho. Masks and facial coverings are not required to be worn in class, unless you have tested positive for COVID-19 test or have been exposed to someone who has tested positive for COVID-19. Individuals may continue to mask in order to protect themselves and others. KN95 masks are available in several locations: the SUB information desk, Boise State Public Health in Campus School, residence hall information desks, and the HR offices. It is imperative that you do not attend class sick! If you need to be absent for an extended period of time due to illness, we can develop a plan to ensure your success. The student success goals of this class are centered on professional growth, which allows for flexibility and unanticipated complications.
 
 You must enter their seat number into MyBoiseState by the end of the second week of class and need to stay with the same seat for the semester. The resulting information is critically important to contact tracing efforts. Please regularly check the University's [COVID 19 Response website for updates](https://www.boisestate.edu/coronavirus-response/). 
 
 
-### Course Learning Outcomes and Supporting Activities
+### VII. Course Learning Outcomes and Supporting Activities
 
 By the end of this course, I will be able to:
-
-
 
 1. Setup, expand, maintain, and repair a computing environment for scientific programming,
 2. Use a programming language to carry out a of tasks including data I/O, data reduction/wrangling, data analysis, visualization, and automation,
@@ -136,8 +123,6 @@ By the end of this course, I will be able to:
 8. Describe my professional development as a scientific programmer during the semester and how that identity integrates with my future research and professional goals,
 
 I will achieve these course learning outcomes by: 
-
-
 
 1. Developing and maintaining a personal GitHub profile and repository
 2. Completing and submitting programming assignments 
@@ -296,21 +281,15 @@ Learning Objectives
   </tr>
 </table>
 
-
-
-### Grading and Ungrading
+### VII. Grading and Ungrading
 
 Assessment and evaluation approaches differ significantly between Unit 1 and Unit 2 of the course. During Unit 1 assessments and grading will be fairly conventional in that you will submit responses to programming assignments, which will be graded according to a rubric that will be provided in the class Canvas page. Below are the assessments for Unit 1:
-
-
 
 * **<span style="text-decoration:underline;">Initial Survey:</span>** You will respond to an initial survey to get an idea of the distribution of prior experience and comfort with scientific programming, programming languages of familiarity, and some other questions related to your prior computational experience. 
 * **<span style="text-decoration:underline;">GitHub Profile:</span>** As part of this class you will create and maintain a GitHub profile, which is increasingly becoming a key professional artifact for scientists and engineers that prospective employers may review. 
 * **<span style="text-decoration:underline;">Jupyter Notebook Assignments:</span>** You will have approximately 4 programming assignments that will be completed in Jupyter Notebooks. Each assignment corresponds to a module that covers a key area of conceptual understanding for computational scientists in the Earth and environmental sciences. You will commit these notebooks to your GitHub repository for the course, and submit the HTML link to these notebook assignments in Canvas. 
 
 Unit 2 will vary dramatically from traditional grading approaches in that we will adopt an “Ungraded” approach to evaluation. During this unit you will assign your grades on assessments that are worth 40% of your final grade in the class. 
-
-
 
 * **<span style="text-decoration:underline;">Goal-setting Document:</span>** At the beginning of Unit 2, you will complete a goals document in which you will articulate 4-6 SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals for the remainder of the class. 
 * **<span style="text-decoration:underline;">Process Letters:</span>** At the end of each sprint, you will write and submit a short **_process letter_** that: (1) outlines the activities you have undertaken to achieve your goals, (2) provides evidence of those activities, (3) reflects on how well you performed those activities with respect to your expectations, (4) describes specific next steps toward achieving your goals, and (5) identifies any changes or modifications to your goals. The final process letter at the end of the semester will contain some additional reflection prompts that ask you to reflect on your process throughout the semester and set some longer-term professional development goals. You will be given a template with headings for these process letters and they should be no more than 3 pages in length (including figures and tables, you can include links to code in a GitHub repository). **You will assign your grade for the preceding ~2 week period on the process letter, but I reserve the right to revise your grade upward.**
@@ -387,11 +366,9 @@ The following table contains the proportion of the final grade that each assessm
 
 
 
-### Late Work Policy
+### VIII. Late Work Policy
 
 Submission of late assignments is understandable from time-to-time, particularly given that you are graduate students and sometimes professional development activities (e.g., fieldwork, conferences, etc.) take precedence over class work. That said, it is an essential professional skill to be able to negotiate deadlines and then follow through on negotiated delays. To promote this as a professional skill, the following procedure **must be followed** to receive credit for late work: 
-
-
 
 1. You must notify me and the class TA via email at least 24 hours in advance of the due date and time that the assignment will be late,
 2. In your notification email, you must provide a revised due date and time,
@@ -411,7 +388,7 @@ An example of an appropriate notification email is provided below:
 
 
 
-### Approximate Timeline of Due Dates – Subject to Change
+### IX. Approximate Timeline of Due Dates – Subject to Change
 
 
 <table>
