@@ -124,12 +124,12 @@ By the end of this course, I will be able to:
 
 I will achieve these course learning outcomes by: 
 
-1. Developing and maintaining a personal GitHub profile and repository
-2. Completing and submitting programming assignments 
-3. Working effectively in teams to build components of a larger piece of scientific software – a climate forecasting dashboard for Idaho
-4. Deploying agile software development practices to help develop a functioning climate dashboard for Idaho
-5. Creating SMART goals, monitoring and documenting progress toward achieving them, and demonstrating ability to reflect and revise them as needed, and
-6. Reflecting on and describing my progress in developing an identity as a scientific programming skills and habits of mind throughout the course of the semester
+A. Developing and maintaining a personal GitHub profile and repository
+B. Completing and submitting programming assignments 
+C. Working effectively in teams to build components of a larger piece of scientific software – a climate forecasting dashboard for Idaho
+D. Deploying agile software development practices to help develop a functioning climate dashboard for Idaho
+E. Creating SMART goals, monitoring and documenting progress toward achieving them, and demonstrating ability to reflect and revise them as needed, and
+F. Reflecting on and describing my progress in developing an identity as a scientific programming skills and habits of mind throughout the course of the semester
 
 <table>
   <tr>
